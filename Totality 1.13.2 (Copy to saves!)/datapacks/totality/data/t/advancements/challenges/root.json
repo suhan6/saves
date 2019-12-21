@@ -1,0 +1,22 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Challenges"
+        },
+        "description": "",
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "background": "minecraft:textures/block/red_terracotta.png",
+        "hidden": false
+    },
+    "criteria": {
+        "challenges": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

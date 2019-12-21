@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Holoblock Ninja",
+            "color": "red"
+        },
+        "description": {
+            "text": "Complete the map without using any legendary (purple) items except the holoblock.",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:glass"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "holoninja": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "t:challenges/root"
+}

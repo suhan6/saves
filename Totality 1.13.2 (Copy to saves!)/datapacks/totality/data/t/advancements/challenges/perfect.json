@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "The Perfect Run",
+            "color": "red"
+        },
+        "description": {
+            "text": "Complete every challenge in a single run.",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "perfect": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "t:challenges/holoninja"
+}

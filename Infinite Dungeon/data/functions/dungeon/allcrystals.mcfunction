@@ -1,0 +1,1 @@
+scoreboard players tag @a add trashot73923

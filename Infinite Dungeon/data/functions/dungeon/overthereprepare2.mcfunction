@@ -1,0 +1,10 @@
+
+summon minecraft:wither_skeleton 10017 45 30 {CustomName:Boss,CustomNameVisible:1,Health:70,Attributes:[{Name:"generic.followRange",Base:50},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:0.2f},{Name:generic.maxHealth,Base:70}],HandItems:[{id:"minecraft:iron_sword",Count:1},{}],ArmorItems:[{},{},{tag:{ench:[{id:7,lvl:2}],display:{color:1841667}},id:"minecraft:leather_chestplate",Count:1},{id:"minecraft:leather_helmet",Count:1,tag:{display:{color:13748736}}}],Tags:["monster","boss","endboss"]}
+
+summon blaze 10011 50 28 {CustomName:Boss,CustomNameVisible:1,Health:70,Attributes:[{Name:"generic.followRange",Base:50},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:0.2f},{Name:generic.maxHealth,Base:70}],Tags:["monster","boss","endboss"]}
+
+summon minecraft:husk 10016 45 20 {CustomName:Boss,CustomNameVisible:1,PersistenceRequired:1b,Health:70,Attributes:[{Name:"generic.followRange",Base:48},{Name:generic.maxHealth,Base:70},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:0.5f}],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1,tag:{display:{color:4850435},ench:[{id:7,lvl:1}]}}],Tags:["boss","monster","endboss"]}
+
+summon evocation_illager 10014 45 25 {CustomName:Boss,CustomNameVisible:1,Health:70,Attributes:[{Name:"generic.followRange",Base:50},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:0.2f},{Name:generic.maxHealth,Base:70}],Tags:["monster","boss"]}
+
+tellraw @a ["",{"text":"\n"},{"text":"You ","color":"gray"},{"text":"thought ","color":"gold"},{"text":"you could ","color":"gray"},{"text":"get rid","color":"gold"},{"text":" of us?\nTime for the ","color":"gray"},{"text":"revenge","color":"gold"},{"text":"!","color":"gray"},{"text":"\n "}]

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Iron Man",
+            "color": "red"
+        },
+        "description": {
+            "text": "Complete the map without dying.",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:iron_chestplate"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "ironman": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "t:challenges/root"
+}
