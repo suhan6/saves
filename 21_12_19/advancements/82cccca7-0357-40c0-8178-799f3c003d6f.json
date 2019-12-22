@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2019-12-21 21:32:46 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-12-21 21:19:23 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2019-12-21 21:32:46 +1100"
     },
     "done": true
   },
@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2019-12-21 21:20:54 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-21 21:20:22 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2019-12-21 21:20:54 +1100"
     },
     "done": true
   },
@@ -95,12 +95,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2019-12-21 21:57:55 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-12-21 20:42:19 +1100"
@@ -113,6 +107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-12-21 21:57:55 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-12-21 20:09:24 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-21 21:20:22 +1100"
@@ -122,12 +128,6 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-12-21 21:32:46 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2019-12-21 20:09:24 +1100"
     },
     "done": true
   },
@@ -377,12 +377,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2019-12-21 21:57:55 +1100"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-12-21 20:06:41 +1100",
@@ -398,13 +392,13 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_glass": "2019-12-21 21:20:22 +1100"
+      "has_minecart": "2019-12-21 21:57:55 +1100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-21 21:20:22 +1100"
     },
@@ -413,6 +407,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-12-21 20:44:50 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-12-21 21:20:22 +1100"
     },
     "done": true
   },
@@ -446,15 +446,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2019-12-21 21:20:54 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2019-12-21 20:42:19 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2019-12-21 21:20:54 +1100"
     },
     "done": true
   },
@@ -488,9 +488,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "has_glass": "2019-12-21 21:20:22 +1100"
+      "has_stone": "2019-12-21 20:09:24 +1100"
     },
     "done": true
   },
@@ -500,9 +500,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
-      "has_stone": "2019-12-21 20:09:24 +1100"
+      "has_glass": "2019-12-21 21:20:22 +1100"
     },
     "done": true
   },
@@ -548,15 +548,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_carved_pumpkin": "2019-12-21 20:41:22 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-12-21 20:06:51 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-12-21 20:41:22 +1100"
     },
     "done": true
   },
@@ -694,15 +694,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2019-12-21 21:20:54 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-12-21 21:19:23 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2019-12-21 21:20:54 +1100"
     },
     "done": true
   },
@@ -742,15 +742,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-12-21 21:20:22 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-12-21 21:19:23 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-12-21 21:20:22 +1100"
     },
     "done": true
   },
