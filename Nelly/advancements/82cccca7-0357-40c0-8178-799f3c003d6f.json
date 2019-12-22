@@ -1,11 +1,11 @@
 {
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
+      "has_string": "2019-12-23 09:24:40 +1100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-10-09 15:09:54 +1100"
     },
@@ -17,15 +17,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_fence": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
+      "has_string": "2019-12-23 09:24:40 +1100"
     },
     "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-10-09 15:25:32 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2019-10-09 15:08:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2019-12-23 09:24:40 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-10-14 20:58:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2019-10-09 15:04:41 +1100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-10-09 15:10:05 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-10-14 20:52:04 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-10-09 15:25:32 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-12-23 09:24:40 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-10-09 15:08:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-10-14 21:02:58 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-10-09 15:09:54 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2019-12-23 09:24:40 +1100"
     },
     "done": true
   },
@@ -38,12 +176,6 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2019-10-14 20:50:44 +1100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:slime": "2019-10-09 15:08:39 +1100"
     },
     "done": true
   },
@@ -61,12 +193,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_jungle_planks": "2019-10-09 15:09:54 +1100"
@@ -79,12 +205,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-10-09 15:09:54 +1100"
@@ -94,12 +214,6 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-10-14 20:50:44 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
     },
     "done": true
   },
@@ -127,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2019-12-23 09:24:40 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-10-14 20:53:53 +1100"
@@ -139,39 +259,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2019-10-14 20:58:54 +1100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2019-10-09 15:04:41 +1100"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-10-14 20:39:26 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2019-10-09 15:10:05 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2019-10-14 20:52:04 +1100"
     },
     "done": true
   },
@@ -181,21 +271,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_lots_of_items": "2019-10-09 15:25:32 +1100"
+      "has_string": "2019-12-23 09:24:40 +1100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-10-14 20:53:53 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
     },
     "done": true
   },
@@ -217,21 +301,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+  "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
+      "has_string": "2019-12-23 09:24:40 +1100"
     },
     "done": true
   },
@@ -247,33 +319,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2019-10-14 20:53:53 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2019-10-09 15:09:54 +1100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2019-10-09 15:08:39 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2019-10-14 20:50:44 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2019-10-14 21:02:58 +1100"
     },
     "done": true
   },
@@ -283,5 +331,5 @@
     },
     "done": true
   },
-  "DataVersion": 1976
+  "DataVersion": 2227
 }
