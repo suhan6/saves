@@ -396,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2019-12-24 09:21:05 +1100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-12-17 16:21:37 +1100"
@@ -866,6 +872,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2019-12-24 08:57:40 +1100",
+      "has_golden_leggings": "2019-12-24 08:57:40 +1100",
+      "has_golden_boots": "2019-12-24 08:57:40 +1100",
+      "has_golden_chestplate": "2019-12-24 08:57:40 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-12-22 08:43:06 +1100"
@@ -1278,6 +1293,15 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2019-12-19 20:59:58 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2019-12-24 08:57:40 +1100",
+      "has_golden_leggings": "2019-12-24 08:57:40 +1100",
+      "has_golden_boots": "2019-12-24 08:57:40 +1100",
+      "has_golden_chestplate": "2019-12-24 08:57:40 +1100"
     },
     "done": true
   },
